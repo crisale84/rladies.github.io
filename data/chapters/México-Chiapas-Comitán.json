@@ -1,0 +1,18 @@
+[
+  {
+    "urlname": "rladies-comitan",        //meetup link
+    "status": "active",     // prospective, active or inactive
+    "country": "México",          // country, capitalised
+    "state.region": "Chiapas",    // state or reigion, capitalised, optional
+    "city": "Comitán",                // city, capitalised
+    "social_media": {  www.facebook.com/rladiescomitan               // social media links
+      "meetup": "rladies-comitan", 
+      "twitter": "@RLadiesComitan",
+      "email": "comitan@rladies.org"
+    },
+    "organizers": {
+      "current": ["Cristina Dominguez", "Nancy Serrano", "Irene Rustrian", "Arantza Pinto"],  // comma separated and each item quoted
+      "former": []
+    }
+  }
+]
